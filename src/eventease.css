@@ -1,0 +1,16 @@
+.eventease-preview {
+  display: flex;
+  height: 170px;
+  padding: 22px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  color: #2860dd;
+  background: linear-gradient(135deg, #f8fbff, #e9f2ff);
+  text-align: center;
+}
+
+.eventease-preview i { font-size: 2.5rem; }
+.eventease-preview strong { font-family: Audiowide, sans-serif; font-size: 1.5rem; }
+.eventease-preview span { color: #556780; font-size: .76rem; }
